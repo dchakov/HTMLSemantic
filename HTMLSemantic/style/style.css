@@ -1,0 +1,21 @@
+﻿th{
+    font-weight:700;
+}
+table,th,td{
+    border-collapse:collapse;
+    border-color:black;
+    border:1px solid;
+    text-align:center;
+}
+nav{
+    margin-left:4px;
+}
+img{
+    float:left;
+    width:180px;
+    height:80px;
+}
+#pageHeader{
+    display:inline-block;
+    height:80px;
+}
